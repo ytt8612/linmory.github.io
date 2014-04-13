@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[My Octopress Blog]]></title>
-  <link href="http://yoursite.com/atom.xml" rel="self"/>
-  <link href="http://yoursite.com/"/>
-  <updated>2014-04-11T16:25:06+08:00</updated>
-  <id>http://yoursite.com/</id>
+  <title><![CDATA[翊]]></title>
+  <link href="http://linmory.github.io/atom.xml" rel="self"/>
+  <link href="http://linmory.github.io/"/>
+  <updated>2014-04-13T13:40:12+08:00</updated>
+  <id>http://linmory.github.io/</id>
   <author>
     <name><![CDATA[shao]]></name>
     
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[My Frist Blog]]></title>
-    <link href="http://yoursite.com/blog/2014/04/11/my-frist-blog/"/>
+    <link href="http://linmory.github.io/blog/my-frist-blog/"/>
     <updated>2014-04-11T16:15:58+08:00</updated>
-    <id>http://yoursite.com/blog/2014/04/11/my-frist-blog</id>
+    <id>http://linmory.github.io/blog/my-frist-blog</id>
     <content type="html"><![CDATA[
 ]]></content>
   </entry>
